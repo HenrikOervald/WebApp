@@ -1,0 +1,18 @@
+[
+  {
+    "username": "string",
+    "first_name": "string",
+    "last_name": "string",
+	"flowers": [
+		"flower_name": "test flower",
+		"flower_latin_name": "flower testis name",
+		"watering_details":2,
+		"user_flower_details":[
+      {
+        "user_flower_creation_date": "2020-12-17",
+        "last_watered": "2020-12-17T12:11:40.698Z"
+      }
+	 ]
+	]
+  }
+]
